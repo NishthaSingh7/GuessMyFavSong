@@ -1,0 +1,371 @@
+body {
+  text-align: center;
+  background-color:  #2e2e4f;
+}
+
+h1 {
+  font-size: 5rem;
+  color: #DBEDF3;
+  font-family: "Arvo", cursive;
+  text-shadow: 4px 0 #DA0463;
+}
+.hey{
+  background-color: whitesmoke;
+  color:black;
+  padding: 15px;
+  position: absolute;
+  left:20px;
+  margin-top:10px;
+  box-shadow: 2px 2px 4px rgba(167, 1, 78, 1);
+  width:120px;
+  font-size:15px;
+}
+.hey:hover{
+  box-shadow: 2px 2px 5px rgba(243, 235, 239,1);
+}
+.result{
+  padding: 10px;
+  background-color: rgb(121, 11, 62);
+  height: 200px;
+  color:white;
+}
+
+.a,.b,.c,.d,.e,.f,.g,.h,.i,.j,
+.k,.l,.m,.n,.o,.p,.q,.r,.s,.t,
+.u,.v,.w,.x,.y,.z,
+.z1,.z2,.z3,.z4,.z5,.z6,.z7,.z8,.z9,.z10,.z11,.z12,.z13,.z14,.z15,.z16,.z17,.z18,.z19,.z20,.z21,.z22{
+  background-image: url("https://is3-ssl.mzstatic.com/image/thumb/Purple123/v4/51/be/ee/51beee64-3cbe-0595-14bb-ba6833c4d0a4/source/512x512bb.jpg");
+  height: 120px;;
+  width: 120px;
+  border-radius: 50%;
+  background-size: contain;
+}
+.a:hover{
+  background-size:cover;
+  background-image: url("https://64.media.tumblr.com/9fcfd4f551327d1a486746f95f0ea447/3d63b8f2bf09e90a-16/s400x600/d4d6c4708e25948254171f62fe30aea2236d9084.gif");
+}
+.b:hover{
+  background-size:cover;
+  background-image: url("https://i.pinimg.com/originals/e3/4f/49/e34f498e797e88c5b63a83eb987b5d51.gif");
+}
+.c:hover{
+    background-size:cover;
+  background-image: url("https://i.pinimg.com/originals/71/98/50/7198504b029bc40b8cae9270cfcf892b.gif");
+}
+.d:hover{
+    background-size:cover;
+  background-image: url("https://c.tenor.com/GbUqBGi9Uz0AAAAC/mochi-mochi-peach-cat-heart.gif");
+}
+.e:hover{
+    background-size:cover;
+  background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR8WtdXn2z2hRiQnfESOYiVxaCkhTQDK4B4Ef9CnGSmgW0Vzb7hrQnJoM3g4NzcWgsvUEA&usqp=CAU");
+}
+.f:hover{
+    background-size:cover;
+  background-image: url("https://ih1.redbubble.net/image.1202122962.6890/pp,840x830-pad,1000x1000,f8f8f8.jpg");
+}
+.g:hover{
+    background-size:cover;
+  background-image: url("https://i.pinimg.com/originals/46/01/d0/4601d034e5763fd18dbab2c31bde8557.gif");
+}
+.h:hover{
+    background-size:cover;
+  background-image: url("https://i.pinimg.com/originals/55/1f/de/551fdea3cf02903df7409715b0152a94.gif");
+}
+.i:hover{
+    background-size:cover;
+  background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ0Q6_5lK4LXKPtgh14-nHYOAfIiBj0DI2biLYNjxy5smrdMkKdTSmgDWal3AMkoas6f-E&usqp=CAU");
+}
+.j:hover{
+    background-size:cover;
+  background-image: url("https://i.pinimg.com/originals/e4/8b/19/e48b194083622deba99454f55cf1a781.gif");
+}
+.k:hover{
+    background-size:cover;
+  background-image: url("https://i.pinimg.com/originals/23/6e/dd/236edd320f07f4fb99a823ae19ef7c49.gif");
+}
+.l:hover{
+    background-size:cover;
+  background-image: url("https://i.pinimg.com/originals/a0/cb/38/a0cb38db2cea0561b8d682403828d64f.jpg");
+}
+.m:hover{
+    background-size:cover;
+  background-image: url("https://i.pinimg.com/originals/98/be/3d/98be3d830fa124427ba2d9c4365b27b7.gif");
+}
+.n:hover{
+    background-size:cover;
+  background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQMS2t0OzOU7T4XHueVBzngB6PVy_7KwJQFcg&usqp=CAU");
+}
+.o:hover{
+    background-size:cover;
+  background-image: url("https://c.tenor.com/3P-pAx5mMnsAAAAM/peach-goma.gif");
+}
+.p:hover{
+    background-size:cover;
+  background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQlgJOyOyGDezCcJyLXsEM44FiwKP9sJyg2Vw&usqp=CAU");
+}
+.q:hover{
+    background-size:cover;
+  background-image: url("https://i.pinimg.com/originals/a4/04/46/a40446e62b33a3f911ac47c6ed24565f.gif");
+}
+.r:hover{
+  background-size:cover;
+  background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT374RMd2TNR2WEZoFCtt_3WerfrWCKFwF4kA&usqp=CAU");
+}
+.s:hover{
+  background-size:cover;
+  background-image: url("https://1.bp.blogspot.com/-n3oGHBqt5MQ/XZKmBJ8F7pI/AAAAAAAMswE/6NXZPCa_RiYlI0i539rNkOI9lGNuT1uTQCLcBGAsYHQ/s1600/AS0005827_17.gif");
+}
+.t:hover{
+  background-size:cover;
+  background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQotlidoP3uGN71_C2cV6s2lt0RymtIg83CLg&usqp=CAU");
+}
+.u:hover{
+  background-size:cover;
+    background-image: url("https://c.tenor.com/gCQyiSzQXxEAAAAM/bop-cat.gif");
+}
+.v:hover{
+  background-size:cover;
+  background-image: url("https://c.tenor.com/EkTjbkFJOToAAAAM/peach-cat.gif");
+}
+.w:hover{
+    background-size:cover;
+  background-image: url("https://i.pinimg.com/originals/b1/13/73/b11373fb3313b40932520593807878cf.gif");
+}
+.x:hover{
+    background-size:cover;
+  background-image: url("https://c.tenor.com/uERUgm-iS8MAAAAM/peach-goma.gif");
+}
+.y:hover{
+    background-size:cover;
+  background-image: url("https://i.pinimg.com/originals/5b/7b/9a/5b7b9a494400a588a556850fa4a73ee3.gif");
+}
+.z:hover{
+    background-size:cover;
+  background-image: url("https://i.pinimg.com/originals/79/38/c1/7938c197f67a9559c83258cd33a9e002.gif");
+}
+.z1:hover{
+    background-size:cover;
+  background-image: url("https://i.pinimg.com/originals/7d/40/ca/7d40cad2b27f471fbc8424acee1d63c8.gif");
+}
+.z2:hover{
+    background-size:cover;
+  background-image: url("https://i.pinimg.com/originals/d0/11/e9/d011e9c5f9b10943dda5b19ae4a2abf2.gif");
+}
+.z3:hover{
+    background-size:cover;
+  background-image: url("https://c.tenor.com/1hXu9gCR3yYAAAAM/missing-you.gif");
+}
+.z4:hover{
+    background-size:cover;
+  background-image: url("https://i.pinimg.com/originals/9c/94/78/9c9478bb26b2160733ce0c10a0e10d10.gif");
+}
+
+.z5:hover{
+    background-size:cover;
+  background-image: url("https://c.tenor.com/qmJi4AaeP2AAAAAC/peach-cat-cute.gif");
+}
+.z6:hover{
+  background-size:cover;
+background-image: url("https://c.tenor.com/oXoH7vyBF94AAAAM/milk-and-mocha-milk-mocha.gif");
+}
+.z7:hover{
+  background-size:cover;
+background-image: url("https://i.pinimg.com/originals/43/f5/bb/43f5bbaf17d061377206243140e855d8.gif");
+}
+.z8:hover{
+  background-size:cover;
+background-image: url("https://i.pinimg.com/originals/59/ee/db/59eedba2343b9f8190d601c2da2e3f0b.gif");
+}
+.z9:hover{
+  background-size:cover;
+background-image: url("https://c.tenor.com/zPNEUMnenBoAAAAM/mochi-mochi-peach-cat.gif");
+}
+.z10:hover{
+  background-size:cover;
+background-image: url("https://i.pinimg.com/originals/b0/da/e1/b0dae1c32e7497f643b82edb4178b345.jpg");
+}
+.z11:hover{
+  background-size:cover;
+background-image: url("https://i.pinimg.com/originals/8a/20/0b/8a200b890ef9f8110c14ddaf030ed7c5.gif");
+}
+.z12:hover{
+  background-size:cover;
+background-image: url("https://i.pinimg.com/originals/bf/2d/f5/bf2df59677df878fa80da8a8914d1b10.gif");
+}
+.z13:hover{
+  background-size:cover;
+background-image: url("https://discordhome.com/user_upload/emojis/AS0006297_05-(1)-gifemoji.gif");
+}
+.z14:hover{
+  background-size:cover;
+background-image: url("https://i.pinimg.com/originals/17/20/35/1720353613d7a0846551ab6aedfc80fb.gif");
+}
+.z15:hover{
+  background-size:cover;
+background-image: url("https://qph.fs.quoracdn.net/main-qimg-212901d01d78122b39825f58e0ba80b3");
+}
+.z16:hover{
+  background-size:cover;
+background-image: url("https://qph.fs.quoracdn.net/main-qimg-15ebf3db3142d4dbff28f89f72d7197a");
+}
+.z17:hover{
+  background-size:cover;
+background-image: url("https://images.picxy.com/cache/2020/9/5/fcc2306a3cbe5587d3981351aee3e0e6.jpg");
+}
+.z18:hover{
+  background-size:cover;
+background-image: url("https://cutewallpaper.org/25/anime-cat-gif-wallpaper/mitao-cat-mochi-mochi-cat-gif-mitaocat-mochimochicat-discover-amp-share-gifs-in-2021-cute-anime-cat-chibi-cat-cute-cartoon-wallpapers.gif");
+}
+.z19:hover{
+  background-size:cover;
+background-image: url("https://wallpapercave.com/wp/wp8838347.jpg");
+}
+.z20:hover{
+  background-size:cover;
+background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTT4jjMmahxAZWa-fdRqIfu8SCwtKTxKU5-Qg&usqp=CAU");
+}
+.z21:hover{
+  background-size:cover;
+background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQMKfWM9y0arFmjrf8UvHlh-dTt2FH_u2aaGA&usqp=CAU");
+}
+.z22:hover{
+  background-size:cover;
+background-image: url("https://static.toiimg.com/photo/msid-88251856/88251856.jpg?21652");
+}
+.set {
+  margin: 10% auto;
+}
+
+.game-over {
+  background-color: red;
+  opacity: 0.8;
+}
+
+.pressed {
+  box-shadow: 0 3px 4px 0 #DBEDF3;
+  opacity: 0.5;
+}
+
+.box {
+  outline: none;
+  border: 10px solid #404B69;
+  font-size: 5rem;
+  font-family: 'Arvo', cursive;
+  line-height: 2;
+  font-weight: 900;
+  color: #DA0463;
+  text-shadow: 3px 0 #DBEDF3;
+  border-radius: 15px;
+  display: inline-block;
+  width: 150px;
+  height: 150px;
+  text-align: center;
+  margin: 10px;
+  background-color: black;
+  padding: 5px;
+}
+/*for 360DEg Rotation*/
+.rotate {
+  animation: rotation 8s infinite linear;
+}
+
+@keyframes rotation {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(359deg);
+  }
+}
+.zoom {
+  transform: scale(1.5); /* (150% zoom - Note: if the zoom is too large, it will go outside of the viewport) */
+}
+/*For Button*/
+#guessStart {
+   background: rgba(82, 61, 246, 0.36);
+   background-image: -webkit-linear-gradient(top, rgba(82, 61, 246, 0.36), rgba(174, 30, 208, 0.4));
+   background-image: -moz-linear-gradient(top, rgba(82, 61, 246, 0.36), rgba(174, 30, 208, 0.4));
+   background-image: -ms-linear-gradient(top, rgba(82, 61, 246, 0.36), rgba(174, 30, 208, 0.4));
+   background-image: -o-linear-gradient(top, rgba(82, 61, 246, 0.36), rgba(174, 30, 208, 0.4));
+   background-image: -webkit-gradient(to bottom, rgba(82, 61, 246, 0.36), rgba(174, 30, 208, 0.4));
+   -webkit-border-radius: 20px;
+   -moz-border-radius: 20px;
+   border-radius: 50%;
+   color: #FFFFFF;
+   font-family: Open Sans;
+   font-size: 25px;
+   font-weight: 50;
+   padding: 20px;
+   -webkit-box-shadow: 1px 1px 20px 0 #000000;
+   -moz-box-shadow: 1px 1px 20px 0 #000000;
+   box-shadow: 5px 5px 20px 0 #000000;
+   text-shadow: 1px 1px 20px #000000;
+   border: solid #ffff 1px;
+   text-decoration: none;
+   font-family: 'Mochiy Pop P One', sans-serif;
+   text-align: center;
+  
+
+}
+#guessStart:hover {
+   border: solid #FFFFFF 0;
+  
+   background: #FFFFFF;
+   background-image: -webkit-linear-gradient(top, #fce8e8, #be1578);
+   background-image: -moz-linear-gradient(top, #fce8e8, #be1578);
+   background-image: -ms-linear-gradient(top, #fce8e8, #be1578);
+   background-image: -o-linear-gradient(top, #fce8e8, #be1578);
+   background-image: -webkit-gradient(to bottom, #fce8e8, #be1578);
+   -webkit-border-radius: 20px;
+   -moz-border-radius: 20px;
+   border-radius: 20px;
+   text-decoration: none;
+}
+#songresult{
+  font-family: 'Dancing Script', cursive;
+  font-size: 32px;
+  letter-spacing: 0;
+  padding: .25em 0 .325em;
+  display: block;
+  margin: 0 auto;
+  text-shadow: 0 0 80px rgba(255,255,255,.5);
+
+/* Clip Background Image */
+
+  background: url(https://i.ibb.co/RDTnNrT/animated-text-fill.png) repeat-y;
+  -webkit-background-clip: text;
+  background-clip: text;
+
+/* Animate Background Image */
+
+  -webkit-text-fill-color: transparent;
+  -webkit-animation: aitf 80s linear infinite;
+
+/* Activate hardware acceleration for smoother animations */
+
+  -webkit-transform: translate3d(0,0,0);
+  -webkit-backface-visibility: hidden;
+
+}
+
+
+/* Animate Background Image */
+
+@-webkit-keyframes aitf {
+0% { background-position: 0% 50%; }
+100% { background-position: 100% 50%; }
+}
+
+#countdown{
+  font-family: 'Roboto Mono', monospace;
+  color:rgb(238, 221, 215);
+  text-shadow: 2px 2px rgba(156, 44, 44,1);
+}
+footer {
+  height: 50px;
+  color: #DBEDF3;
+  padding: 10px;
+  background-color: black;
+  font-family: sans-serif;
+}
